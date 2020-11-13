@@ -58,7 +58,7 @@ ItemDisplay[ETH]: %NAME% %GRAY%[ETH]%CONTINUE%
 
 ItemDisplay[cm1 OR cm2 OR cm3]: %NAME% %GRAY%[%ILVL%]
 ItemDisplay[toa OR pk1 OR pk2 OR pk3 OR bey OR dhn OR mbr]: %PURPLE%>> %NAME% <<%dot-8B%%border-84%
-ItemDisplay[leg OR tes OR ceh OR bet OR fed]: %NAME%
+ItemDisplay[leg OR tes OR ceh OR bet OR fed]: %WHITE%%NAME%
 
 ItemDisplay[rvl]: %PURPLE%R%WHITE%70%
 ItemDisplay[hp5]: %RED%!%WHITE%Hp
