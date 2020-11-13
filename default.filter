@@ -190,7 +190,7 @@ ItemDisplay[(r33 OR r33s)]: Zod%CONTINUE%
 ItemDisplay[RUNE>0]: %NAME% Rune %TAN%(%RUNENUM%)%CONTINUE%
 ItemDisplay[RUNE>0 QTY>0]: %NAME% %ORANGE%Q[%QTY%]%CONTINUE%
 
-ItemDisplay[RUNE>25]: %PURPLE%>> >> >> >> %RED%%NAME% %PURPLE% << << << << <<{%PURPLE%Lucky bastard}%dot-8B%%border-84%
+ItemDisplay[RUNE>25]: %PURPLE%>> >> >> >> %RED%%NAME% %PURPLE% << << << <<{%PURPLE%Lucky bastard}%dot-8B%%border-84%
 ItemDisplay[RUNE>20]: %PURPLE%>> >> %RED%%NAME% %PURPLE%<< <<%dot-8B%%border-84%
 ItemDisplay[(RUNE=15 OR RUNE=18 OR RUNE=20)]: %PURPLE%>> %RED%%NAME% %PURPLE%<<
 ItemDisplay[RUNE>0]: %WHITE%%NAME%
