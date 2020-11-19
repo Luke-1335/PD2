@@ -38,7 +38,7 @@ ItemDisplay[r32 OR r32s]: Cham%CONTINUE%
 ItemDisplay[r33 OR r33s]: Zod%CONTINUE%
 
 ItemDisplay[RUNE>0]: %NAME% Rune %TAN%(%RUNENUM%)%CONTINUE%
-ItemDisplay[RUNE>0 QTY>0]: %NAME%  %WHITE%x %ORANGE%%QTY%%CONTINUE%
+ItemDisplay[RUNE>0 QTY>1]: %NAME%  %WHITE%x %ORANGE%%QTY%%CONTINUE%
 
 ItemDisplay[RUNE>25]: %PURPLE%>> >> >> >> %RED%%NAME% %PURPLE%<< << << << <<{%PURPLE%Lucky bastard}%dot-8B%%border-84%
 ItemDisplay[RUNE>20]: %PURPLE%>> >> %RED%%NAME% %PURPLE%<< <<%dot-8B%%border-84%
@@ -83,7 +83,7 @@ ItemDisplay[SUP ED>14]: %NAME% %PURPLE%ED 15%CONTINUE%
 ItemDisplay[NMAG DIN RES>29]: %WHITE%%NAME% %PURPLE%@ %RES%%CONTINUE%
 ItemDisplay[SOCK>0]: %NAME% %TAN%[%SOCKETS%]%CONTINUE%
 ItemDisplay[ETH]: %NAME% %GRAY%[ETH]%CONTINUE%
-ItemDisplay[QTY>0]: %NAME%  %WHITE%x %ORANGE%%QTY%%CONTINUE%
+ItemDisplay[QTY>1]: %NAME%  %WHITE%x %ORANGE%%QTY%%CONTINUE%
 ItemDisplay[GEMLEVEL>3]: %NAME%
 
 ItemDisplay[cm1 OR cm3]: %NAME% %GRAY%[%ILVL%]%dot-8B%%border-84%
