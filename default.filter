@@ -224,7 +224,7 @@ ItemDisplay[MAG SOR (TABSK10>2 AND SK39>2)]: %NAME% %TAN%[Ice Bolt]%CONTINUE%
 ItemDisplay[MAG SOR (TABSK10>2) AND (SK44>2 OR SK59>2 OR SK55>2 OR SK39>2) AND (SK65>2)]: %NAME% %PURPLE%of Imbalance
 
 //2 most fastest sin weapons
-ItemDisplay[MAG (clw OR 9lw OR 7lw OR btl OR 9tw OR 7tw)]: %NAME%%dot-8B%%border-84%
+ItemDisplay[MAG (clw OR 9lw OR 7lw OR btl OR 9tw OR 7tw)]: %NAME%
 
 ItemDisplay[MAG ID]: %NAME%
 
