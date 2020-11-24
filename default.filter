@@ -252,8 +252,8 @@ ItemDisplay[MAG ID]: %NAME%
 //==================================================================================================
 //=========================================== SUP BASE =============================================
 //==================================================================================================
-ItemDisplay[SUP xtp (SOCK=0 OR SOCK>3) ED>9]: %RED%>> %WHITE%%NAME% %RED%<<%dot-8B%%border-84%
-ItemDisplay[SUP ELT CHEST (SOCK=0 OR SOCK>3) ED>9]: %RED%>> %WHITE%%NAME% %RED%<<%dot-8B%%border-84%
+ItemDisplay[SUP (xtp OR uui OR uea OR ula OR utu OR urs OR utp OR uar) (SOCK=0 OR SOCK>2) ED>9]: %RED%>> %WHITE%%NAME% %RED%<<%dot-8B%%border-84%
+ItemDisplay[SUP ETH ELT CHEST  (SOCK=0 OR SOCK>2) ED>4]: %RED%>> %WHITE%%NAME% %RED%<<%dot-8B%%border-84%
 
 ItemDisplay[!ETH SUP SOCK=0 ED>4 (ci3 OR uh9 OR ush OR tow OR 7cr OR 7wa OR uit)]: %RED%>> %WHITE%%NAME% %RED%<<%dot-8B%%border-84%
 ItemDisplay[!ETH SUP SOCK=3 ED>4 (ci3 OR uh9 OR ush OR tow)]: %RED%>> %WHITE%%NAME% %RED%<<%dot-8B%%border-84%
